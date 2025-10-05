@@ -1,6 +1,0 @@
-000100     identification division.
-000200     author. callum fromant
-000300     program-id. hello-world.
-000400     procedure division.
-000500        display "Hello, World!".
-000600        stop run.
